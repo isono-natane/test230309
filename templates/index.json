@@ -97,8 +97,8 @@
       "settings": {
         "heading": "Image slider",
         "slide_height": "medium",
-        "text_size": "medium",
-        "text_alignment": "center center",
+        "text_size": "large",
+        "text_alignment": "left center",
         "show_overlay": true,
         "auto": false,
         "speed": 5
