@@ -32,12 +32,67 @@
             "button_label": "Button label",
             "button_link": ""
           }
+        },
+        "de99e357-cabe-465d-a5ac-5d95744d1776": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/matte-lipstick-with-box-mockup_439185-1537.jpg",
+            "slide_title": "見出しが入ります。",
+            "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "90787148-a75a-429c-9a7c-0b811b132d30": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cosmetic-mock-up-products-vector-template-design-make-up-cosmetics-product-with-elements-like-face_572293-1456.jpg",
+            "slide_title": "見出しが入ります。",
+            "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "195d7da8-5838-475c-af88-1b8077e0a1cf": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/eye-makeup-products-scene-mockup_1332-4653.jpg",
+            "slide_title": "見出しが入ります。",
+            "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "b2324e78-798d-45fc-8bd6-458875494b12": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cosmetic-element-collection-with-powder_23-2148331242.jpg",
+            "slide_title": "見出しが入ります。",
+            "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "86e8254a-701b-4a11-a531-87b8265bb4ae": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cosmetic-lipstick-branding-mockup_439185-9166.jpg",
+            "slide_title": "見出しが入ります。",
+            "subheading": "あなたのブランドのストーリーをビデオや画像で伝える",
+            "button_label": "Button label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "5dea23ec-02f7-444f-8fdc-7f540d9f33b6",
         "643686e9-f779-4044-b2be-caffb2eabbd4",
-        "0126fbe3-0b5e-4002-95ed-d8c5dd5f9501"
+        "0126fbe3-0b5e-4002-95ed-d8c5dd5f9501",
+        "de99e357-cabe-465d-a5ac-5d95744d1776",
+        "90787148-a75a-429c-9a7c-0b811b132d30",
+        "195d7da8-5838-475c-af88-1b8077e0a1cf",
+        "b2324e78-798d-45fc-8bd6-458875494b12",
+        "86e8254a-701b-4a11-a531-87b8265bb4ae"
       ],
       "settings": {
         "heading": "Image slider",
