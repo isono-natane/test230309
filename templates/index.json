@@ -98,7 +98,7 @@
         "heading": "★Image Slider ★",
         "slide_height": "medium",
         "text_size": "large",
-        "text_alignment": "left center",
+        "text_alignment": "center center",
         "show_overlay": true,
         "auto": false,
         "speed": 5
